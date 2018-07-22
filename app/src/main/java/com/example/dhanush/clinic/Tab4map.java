@@ -21,7 +21,7 @@ public class Tab4map extends Fragment implements OnMapReadyCallback {
     private MapView mapView;
     private GoogleMap gmap;
 
-    private static final String MAP_VIEW_BUNDLE_KEY = "AIzaSyDw7lDIh9Itfw4srVOafRCdDxusbFqSUoU";
+
 
 
     @Override
